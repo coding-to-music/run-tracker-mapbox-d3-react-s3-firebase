@@ -1,11 +1,12 @@
 {
-  "name": "new-app",
+  "name": "run-tracker-mapbox-d3-react-s3-firebase",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "deploy": "git add . && git commit -m Build && git push",
     "test": "jest --watch --verbose --runInBand --detectOpenHandles",
     "check-types": "tsc --noEmit"
   },

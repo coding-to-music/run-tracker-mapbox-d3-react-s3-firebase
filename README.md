@@ -1,6 +1,6 @@
 # run-tracker-mapbox-d3-react-s3-firebase
 
-# 🚀 🚀
+# 🚀 Run Tracker is an intuitive and fully featured route planner and activity tracker 🚀
 
 https://github.com/coding-to-music/run-tracker-mapbox-d3-react-s3-firebase
 

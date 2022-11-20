@@ -37,6 +37,7 @@ module.exports = {
     NOW_URL: process.env.NOW_URL,
   },
 };
+
 ```
 
 ## GitHub

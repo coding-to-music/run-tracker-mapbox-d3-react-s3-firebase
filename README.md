@@ -9,6 +9,26 @@ From / By https://github.com/erikguntner/rtnt
 ## Environment variables:
 
 ```java
+# now.json
+
+{
+  "build": {
+    "env": {
+      "GRAPH_HOPPER_KEY": "@graph-hopper-key",
+      "MAPBOX_TOKEN": "@mapbox-token",
+      "JWT_SECRET": "@jwt-secret",
+      "MONGO_URI": "@mongo-uri",
+      "PG_CONN_STRING": "@pg-conn-string",
+      "S3_ACCESS_KEY_ID": "@s3-access-key-id",
+      "S3_SECRET_ACCESS_KEY": "@s3-secret-access-key",
+      "PUSHER_APP_ID": "@pusher-app-id",
+      "PUSHER_KEY": "@pusher-key",
+      "PUSHER_SECRET": "@pusher-secret",
+      "PUSHER_CLUSTER": "@pusher-cluster"
+    }
+  }
+}
+
 # next.config.js
 
 require('dotenv').config();

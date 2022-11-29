@@ -1,5 +1,11 @@
 # run-tracker-mapbox-d3-react-s3-firebase
 
+Need to set up .env values and try to make it work. Have not tried it. Requires Pusher.com 
+
+https://pusher.com/channels
+
+https://www.npmjs.com/package/pusher
+
 # 🚀 Run Tracker is an intuitive and fully featured route planner and activity tracker 🚀
 
 https://github.com/coding-to-music/run-tracker-mapbox-d3-react-s3-firebase

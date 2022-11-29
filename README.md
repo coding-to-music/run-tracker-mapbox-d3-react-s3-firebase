@@ -12,6 +12,10 @@ https://github.com/coding-to-music/run-tracker-mapbox-d3-react-s3-firebase
 
 From / By https://github.com/erikguntner/rtnt
 
+https://rtnt.vercel.app
+
+https://rtnt.now.sh
+
 ## Environment variables:
 
 ```java
